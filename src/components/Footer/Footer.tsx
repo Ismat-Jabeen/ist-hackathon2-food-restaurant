@@ -33,7 +33,7 @@ export default function Footer() {
       <div className="bg-[#4F4F4F] py-8">
         <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
           <p className="text-[16px] leading-6 mb-4 md:mb-0">
-            Copyright © 2022 by Ayesha Rana. All Rights Reserved.
+            Copyright © 2024 by Ismat Jabeen. All Rights Reserved.
           </p>
           <SocialIcons />
         </div>
